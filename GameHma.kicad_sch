@@ -5,8 +5,10 @@
 	(uuid "365c5a64-2f06-4047-8707-e000ebaadc48")
 	(paper "A4")
 	(title_block
+		(title "PineappleBoard")
 		(date "2025-08-07")
 		(rev "0")
+		(company "OpenFruit")
 	)
 	(lib_symbols
 		(symbol "A4988_STEPPER_MOTOR_DRIVER_CARRIER:A4988_STEPPER_MOTOR_DRIVER_CARRIER"
@@ -1785,6 +1787,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 255 0 0 1)
 		)
 		(uuid "0035afbb-c1dd-4142-ace4-6b44920dd9d2")
 	)
@@ -1806,6 +1809,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 0 0 194 1)
 		)
 		(uuid "051dca02-4ace-4d20-a185-ab64b8378153")
 	)
@@ -1838,6 +1842,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 255 0 255 1)
 		)
 		(uuid "128a6412-238f-481f-8c98-93dc35816d6b")
 	)
@@ -1934,6 +1939,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 72 72 72 1)
 		)
 		(uuid "22bc3338-b996-4d7d-89cc-33641e402699")
 	)
@@ -2009,6 +2015,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 255 0 255 1)
 		)
 		(uuid "32018173-643e-40b4-9bb6-5d7f71a0dc27")
 	)
@@ -2029,6 +2036,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 255 0 255 1)
 		)
 		(uuid "33e1ad2f-3482-4cb9-89e5-d0b20ee32e45")
 	)
@@ -2147,6 +2155,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 72 72 72 1)
 		)
 		(uuid "4e0dd444-19be-486b-b931-97b13906750f")
 	)
@@ -2157,6 +2166,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 72 72 72 1)
 		)
 		(uuid "55435281-6204-44f4-9d77-befe83a05218")
 	)
@@ -2392,6 +2402,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 72 72 72 1)
 		)
 		(uuid "8524abae-3d3b-472d-99ce-6523c583bcb2")
 	)
@@ -2424,6 +2435,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 255 0 0 1)
 		)
 		(uuid "8f3b51c4-809e-49c1-a883-beebc5c80f19")
 	)
@@ -2562,6 +2574,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 0 0 194 1)
 		)
 		(uuid "a78cc570-51ff-4b5b-ab44-f472817bfbad")
 	)
@@ -2648,6 +2661,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 255 0 0 1)
 		)
 		(uuid "c1c5def6-6579-40ec-8a17-8e85c2fdca79")
 	)
@@ -2679,6 +2693,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 255 0 0 1)
 		)
 		(uuid "c24bf240-076b-4694-b0c8-ae514473d20f")
 	)
@@ -2700,6 +2715,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 255 0 255 1)
 		)
 		(uuid "c5773c14-1b01-4518-aa5c-ff6cc8955750")
 	)
@@ -2742,6 +2758,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 0 0 194 1)
 		)
 		(uuid "cd656923-98a9-4a66-96db-a0e1a6276ab4")
 	)
@@ -2850,6 +2867,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 0 0 194 1)
 		)
 		(uuid "f30fe0cf-1577-407e-8cf5-185893591a46")
 	)
