@@ -2001,7 +2001,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 57.15) (xy 243.84 57.15)
+			(xy 236.22 57.15) (xy 252.73 57.15)
 		)
 		(stroke
 			(width 0)
@@ -2064,7 +2064,7 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 55.88) (xy 243.84 55.88)
+			(xy 240.03 55.88) (xy 252.73 55.88)
 		)
 		(stroke
 			(width 0)
@@ -2838,7 +2838,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 57.15) (xy 243.84 58.42)
+			(xy 252.73 57.15) (xy 252.73 58.42)
 		)
 		(stroke
 			(width 0)
@@ -3085,7 +3085,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 60.96) (xy 243.84 60.96)
+			(xy 228.6 60.96) (xy 252.73 60.96)
 		)
 		(stroke
 			(width 0)
@@ -3128,7 +3128,7 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 53.34) (xy 243.84 53.34)
+			(xy 238.76 53.34) (xy 252.73 53.34)
 		)
 		(stroke
 			(width 0)
@@ -7751,7 +7751,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x04")
-		(at 248.92 55.88 0)
+		(at 257.81 55.88 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7760,7 +7760,7 @@
 		(fields_autoplaced yes)
 		(uuid "a80d9f69-20cf-402b-925e-63c72553deeb")
 		(property "Reference" "J4"
-			(at 251.46 55.8799 0)
+			(at 260.35 55.8799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7769,7 +7769,7 @@
 			)
 		)
 		(property "Value" "Motor_Terminal_01x04"
-			(at 251.46 58.4199 0)
+			(at 260.35 58.4199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7778,7 +7778,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 248.92 55.88 0)
+			(at 257.81 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7787,7 +7787,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 248.92 55.88 0)
+			(at 257.81 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7796,7 +7796,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 248.92 55.88 0)
+			(at 257.81 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
