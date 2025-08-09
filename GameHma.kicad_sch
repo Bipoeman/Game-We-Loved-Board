@@ -1214,6 +1214,96 @@
 			(embedded_fonts no)
 		)
 	)
+	(wire
+		(pts
+			(xy 177.8 135.89) (xy 110.49 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05cce661-f600-4ff7-95d6-2b898f6e01b7")
+	)
+	(wire
+		(pts
+			(xy 182.88 74.93) (xy 182.88 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13504024-2524-4414-80bd-a727d97a06a4")
+	)
+	(wire
+		(pts
+			(xy 110.49 118.11) (xy 99.06 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21202c43-8814-4a56-9a0b-ca3756a69617")
+	)
+	(wire
+		(pts
+			(xy 116.84 87.63) (xy 99.06 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2db85028-0292-4adc-919f-a8bba2d5e46a")
+	)
+	(wire
+		(pts
+			(xy 177.8 74.93) (xy 182.88 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c0ef1aa-9ae8-4450-af93-c51ce7be9a53")
+	)
+	(wire
+		(pts
+			(xy 177.8 125.73) (xy 177.8 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1ee4507-7000-4266-93d8-fd89bec31163")
+	)
+	(wire
+		(pts
+			(xy 182.88 66.04) (xy 116.84 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1832475-ea5d-43b5-946c-948963066295")
+	)
+	(wire
+		(pts
+			(xy 110.49 135.89) (xy 110.49 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3c382a5-8c3d-4a6c-bdd5-3320c5d2847f")
+	)
+	(wire
+		(pts
+			(xy 116.84 66.04) (xy 116.84 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea455fe7-1b8f-4b85-96b8-037282967129")
+	)
 	(image
 		(at 276.86 173.99)
 		(scale 0.0220748)
@@ -4035,7 +4125,7 @@
 	)
 	(symbol
 		(lib_id "A4988_STEPPER_MOTOR_DRIVER_CARRIER:A4988_STEPPER_MOTOR_DRIVER_CARRIER")
-		(at 92.71 97.79 0)
+		(at 81.28 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4044,7 +4134,7 @@
 		(fields_autoplaced yes)
 		(uuid "43591c05-b02d-450e-a8b0-c7fa8f69ee65")
 		(property "Reference" "U2"
-			(at 92.71 74.93 0)
+			(at 81.28 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4052,7 +4142,7 @@
 			)
 		)
 		(property "Value" "A4988_STEPPER_MOTOR_DRIVER_CARRIER"
-			(at 92.71 77.47 0)
+			(at 81.28 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4060,7 +4150,7 @@
 			)
 		)
 		(property "Footprint" "A4988_STEPPER_MOTOR_DRIVER_CARRIER:MODULE_A4988_STEPPER_MOTOR_DRIVER_CARRIER"
-			(at 92.71 97.79 0)
+			(at 81.28 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4070,7 +4160,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 92.71 97.79 0)
+			(at 81.28 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4079,7 +4169,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 92.71 97.79 0)
+			(at 81.28 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4088,7 +4178,7 @@
 			)
 		)
 		(property "MF" "Pololu"
-			(at 92.71 97.79 0)
+			(at 81.28 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4098,7 +4188,7 @@
 			)
 		)
 		(property "DESCRIPTION" "Stepper motor controler; IC: A4988; 1A; Uin mot: 8÷35V"
-			(at 92.71 97.79 0)
+			(at 81.28 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4108,7 +4198,7 @@
 			)
 		)
 		(property "PACKAGE" "None"
-			(at 92.71 97.79 0)
+			(at 81.28 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4118,7 +4208,7 @@
 			)
 		)
 		(property "PRICE" "None"
-			(at 92.71 97.79 0)
+			(at 81.28 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4128,7 +4218,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 92.71 97.79 0)
+			(at 81.28 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4138,7 +4228,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/A4988%20STEPPER%20MOTOR%20DRIVER%20CARRIER/Pololu/view-part/?ref=eda"
-			(at 92.71 97.79 0)
+			(at 81.28 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4148,7 +4238,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 92.71 97.79 0)
+			(at 81.28 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4158,7 +4248,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/A4988%20STEPPER%20MOTOR%20DRIVER%20CARRIER/Pololu/view-part/?ref=snap"
-			(at 92.71 97.79 0)
+			(at 81.28 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4168,7 +4258,7 @@
 			)
 		)
 		(property "MP" "A4988 STEPPER MOTOR DRIVER CARRIER"
-			(at 92.71 97.79 0)
+			(at 81.28 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4178,7 +4268,7 @@
 			)
 		)
 		(property "Availability" "Not in stock"
-			(at 92.71 97.79 0)
+			(at 81.28 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4188,7 +4278,7 @@
 			)
 		)
 		(property "AVAILABILITY" "Unavailable"
-			(at 92.71 97.79 0)
+			(at 81.28 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4198,7 +4288,7 @@
 			)
 		)
 		(property "Description_1" "Stepper Motor Driver"
-			(at 92.71 97.79 0)
+			(at 81.28 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4266,7 +4356,7 @@
 	)
 	(symbol
 		(lib_id "ESP32-DEVKIT-V1:ESP32-DEVKIT-V1")
-		(at 153.67 81.28 0)
+		(at 162.56 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4275,7 +4365,7 @@
 		(fields_autoplaced yes)
 		(uuid "8a3d3986-df7d-4f75-b88f-9511360342fb")
 		(property "Reference" "U1"
-			(at 153.67 48.26 0)
+			(at 162.56 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4283,7 +4373,7 @@
 			)
 		)
 		(property "Value" "ESP32-DEVKIT-V1"
-			(at 153.67 50.8 0)
+			(at 162.56 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4291,7 +4381,7 @@
 			)
 		)
 		(property "Footprint" "ESP32-DEVKIT-V1:MODULE_ESP32_DEVKIT_V1"
-			(at 153.67 81.28 0)
+			(at 162.56 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4301,7 +4391,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 153.67 81.28 0)
+			(at 162.56 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4310,7 +4400,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 153.67 81.28 0)
+			(at 162.56 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4319,7 +4409,7 @@
 			)
 		)
 		(property "MF" "Do it"
-			(at 153.67 81.28 0)
+			(at 162.56 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4329,7 +4419,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "6.8 mm"
-			(at 153.67 81.28 0)
+			(at 162.56 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4339,7 +4429,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 153.67 81.28 0)
+			(at 162.56 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4349,7 +4439,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 153.67 81.28 0)
+			(at 162.56 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4359,7 +4449,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do+it/view-part/?ref=eda"
-			(at 153.67 81.28 0)
+			(at 162.56 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4369,7 +4459,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 153.67 81.28 0)
+			(at 162.56 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4379,7 +4469,7 @@
 			)
 		)
 		(property "PARTREV" "N/A"
-			(at 153.67 81.28 0)
+			(at 162.56 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4389,7 +4479,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do+it/view-part/?ref=snap"
-			(at 153.67 81.28 0)
+			(at 162.56 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4399,7 +4489,7 @@
 			)
 		)
 		(property "MP" "ESP32-DEVKIT-V1"
-			(at 153.67 81.28 0)
+			(at 162.56 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4409,7 +4499,7 @@
 			)
 		)
 		(property "Description_1" "Dual core, Wi-Fi: 2.4 GHz up to 150 Mbits/s,BLE (Bluetooth Low Energy) and legacy Bluetooth, 32 bits, Up to 240 MHz"
-			(at 153.67 81.28 0)
+			(at 162.56 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4419,7 +4509,7 @@
 			)
 		)
 		(property "Availability" "Not in stock"
-			(at 153.67 81.28 0)
+			(at 162.56 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4429,7 +4519,7 @@
 			)
 		)
 		(property "MANUFACTURER" "DOIT"
-			(at 153.67 81.28 0)
+			(at 162.56 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
