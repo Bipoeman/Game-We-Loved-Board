@@ -485,6 +485,598 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Connector:Screw_Terminal_01x02"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Screw_Terminal_01x02"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "screw terminal"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TerminalBlock*:*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Screw_Terminal_01x02_1_1"
+				(rectangle
+					(start -1.27 1.27)
+					(end 1.27 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.5334 0.3302) (xy 0.3302 -0.508)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.5334 -2.2098) (xy 0.3302 -3.048)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.3556 0.508) (xy 0.508 -0.3302)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.3556 -2.032) (xy 0.508 -2.8702)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 0)
+					(radius 0.635)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -2.54)
+					(radius 0.635)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Connector:Screw_Terminal_01x06"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Screw_Terminal_01x06"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic screw terminal, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "screw terminal"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TerminalBlock*:*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Screw_Terminal_01x06_1_1"
+				(rectangle
+					(start -1.27 6.35)
+					(end 1.27 -8.89)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.5334 5.4102) (xy 0.3302 4.572)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.5334 2.8702) (xy 0.3302 2.032)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.5334 0.3302) (xy 0.3302 -0.508)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.5334 -2.2098) (xy 0.3302 -3.048)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.5334 -4.7498) (xy 0.3302 -5.588)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.5334 -7.2898) (xy 0.3302 -8.128)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.3556 5.588) (xy 0.508 4.7498)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.3556 3.048) (xy 0.508 2.2098)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.3556 0.508) (xy 0.508 -0.3302)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.3556 -2.032) (xy 0.508 -2.8702)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.3556 -4.572) (xy 0.508 -5.4102)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.3556 -7.112) (xy 0.508 -7.9502)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 5.08)
+					(radius 0.635)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 2.54)
+					(radius 0.635)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 0)
+					(radius 0.635)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -2.54)
+					(radius 0.635)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -5.08)
+					(radius 0.635)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -7.62)
+					(radius 0.635)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 5.08 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -5.08 0)
+					(length 3.81)
+					(name "Pin_5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -7.62 0)
+					(length 3.81)
+					(name "Pin_6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "ESP32-DEVKIT-V1:ESP32-DEVKIT-V1"
 			(pin_names
 				(offset 1.016)
@@ -1215,44 +1807,90 @@
 		)
 	)
 	(junction
-		(at 182.88 78.74)
+		(at 162.56 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "002afd96-daf1-4d52-9ea5-15f83207f8b4")
 	)
 	(junction
-		(at 92.71 134.62)
+		(at 72.39 130.81)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4f3d544e-1bfe-407d-bbd9-377c6135808a")
 	)
 	(junction
-		(at 259.08 148.59)
+		(at 238.76 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "71c582c5-1870-4040-818a-4f9d66ad2c14")
 	)
 	(junction
-		(at 182.88 49.53)
+		(at 162.56 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "75efdb36-a861-44e8-98a2-79ee71677bf6")
 	)
 	(junction
-		(at 248.92 49.53)
+		(at 238.76 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "767144f9-428b-44f7-910e-ac95c3f0c0dc")
+	)
+	(junction
+		(at 228.6 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "802c0f85-f5fa-4bcc-92c1-af31f26924f2")
 	)
 	(junction
-		(at 165.1 134.62)
+		(at 72.39 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9695b5e5-81f2-48a7-a8e5-6b0e23f2b842")
+	)
+	(junction
+		(at 110.49 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "99a41dcf-2e16-4d39-8b0e-d4bd958ceb9f")
+	)
+	(junction
+		(at 76.2 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a4d30cf1-a3d6-4877-a8f2-3310787cc012")
+	)
+	(junction
+		(at 72.39 27.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b89dbc49-6a86-46f8-9d26-d140de28a6cc")
+	)
+	(junction
+		(at 144.78 130.81)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c00bc252-e79b-4798-8e02-237b532da059")
 	)
+	(junction
+		(at 242.57 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d2c28625-f763-4bb0-a131-0782524f8f81")
+	)
 	(wire
 		(pts
-			(xy 165.1 134.62) (xy 92.71 134.62)
+			(xy 72.39 27.94) (xy 250.19 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01d29591-51e1-4b6e-9783-4b651fe0633b")
+	)
+	(wire
+		(pts
+			(xy 144.78 130.81) (xy 72.39 130.81)
 		)
 		(stroke
 			(width 0)
@@ -1262,7 +1900,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 134.62) (xy 165.1 163.83)
+			(xy 144.78 130.81) (xy 144.78 160.02)
 		)
 		(stroke
 			(width 0)
@@ -1272,7 +1910,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 78.74) (xy 182.88 49.53)
+			(xy 162.56 74.93) (xy 162.56 45.72)
 		)
 		(stroke
 			(width 0)
@@ -1282,7 +1920,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 170.18) (xy 83.82 170.18)
+			(xy 72.39 166.37) (xy 63.5 166.37)
 		)
 		(stroke
 			(width 0)
@@ -1292,17 +1930,17 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 78.74) (xy 91.44 78.74)
+			(xy 228.6 116.84) (xy 242.57 116.84)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "21202c43-8814-4a56-9a0b-ca3756a69617")
+		(uuid "1ef5dd95-a260-4323-bbd0-8ce447cf1f9b")
 	)
 	(wire
 		(pts
-			(xy 274.32 49.53) (xy 274.32 118.11)
+			(xy 246.38 45.72) (xy 246.38 114.3)
 		)
 		(stroke
 			(width 0)
@@ -1312,7 +1950,17 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 49.53) (xy 182.88 49.53)
+			(xy 246.38 45.72) (xy 228.6 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2adcb4b7-768a-497a-8565-9c679099e57b")
+	)
+	(wire
+		(pts
+			(xy 63.5 45.72) (xy 162.56 45.72)
 		)
 		(stroke
 			(width 0)
@@ -1322,17 +1970,17 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 78.74) (xy 91.44 80.01)
+			(xy 76.2 30.48) (xy 76.2 48.26)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "34b94d80-8ec2-452f-8bbb-caf3b050b4a5")
+		(uuid "303acf51-8132-40d0-85f8-fa40bd2e161f")
 	)
 	(wire
 		(pts
-			(xy 259.08 148.59) (xy 248.92 148.59)
+			(xy 238.76 144.78) (xy 228.6 144.78)
 		)
 		(stroke
 			(width 0)
@@ -1342,7 +1990,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 80.01) (xy 83.82 80.01)
+			(xy 63.5 76.2) (xy 72.39 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1352,7 +2000,27 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 163.83) (xy 259.08 163.83)
+			(xy 63.5 48.26) (xy 76.2 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b377116-a3d0-4a31-8388-acc965311dde")
+	)
+	(wire
+		(pts
+			(xy 34.29 30.48) (xy 76.2 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d96a36c-33d4-4d9a-a202-db4a69258bc9")
+	)
+	(wire
+		(pts
+			(xy 144.78 160.02) (xy 238.76 160.02)
 		)
 		(stroke
 			(width 0)
@@ -1362,7 +2030,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 134.62) (xy 92.71 170.18)
+			(xy 72.39 130.81) (xy 72.39 166.37)
 		)
 		(stroke
 			(width 0)
@@ -1372,7 +2040,7 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 80.01) (xy 259.08 148.59)
+			(xy 238.76 76.2) (xy 238.76 144.78)
 		)
 		(stroke
 			(width 0)
@@ -1382,7 +2050,37 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 163.83) (xy 259.08 148.59)
+			(xy 250.19 76.2) (xy 250.19 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b33a2dc-f62d-4ee8-94cf-2b47b93e7b99")
+	)
+	(wire
+		(pts
+			(xy 228.6 114.3) (xy 246.38 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e3f5f3d-93ee-498a-972d-a41932193a96")
+	)
+	(wire
+		(pts
+			(xy 242.57 48.26) (xy 242.57 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7887909a-7348-4556-85d5-b05628b016cf")
+	)
+	(wire
+		(pts
+			(xy 238.76 160.02) (xy 238.76 144.78)
 		)
 		(stroke
 			(width 0)
@@ -1392,7 +2090,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 78.74) (xy 182.88 78.74)
+			(xy 140.97 74.93) (xy 162.56 74.93)
 		)
 		(stroke
 			(width 0)
@@ -1402,7 +2100,27 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 139.7) (xy 182.88 139.7)
+			(xy 34.29 27.94) (xy 72.39 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d6dd931-c3b2-464a-9b9c-ee4e4c320718")
+	)
+	(wire
+		(pts
+			(xy 110.49 30.48) (xy 242.57 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8377278d-b58a-41bc-9547-1073069f3246")
+	)
+	(wire
+		(pts
+			(xy 63.5 135.89) (xy 162.56 135.89)
 		)
 		(stroke
 			(width 0)
@@ -1412,7 +2130,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 139.7) (xy 182.88 78.74)
+			(xy 162.56 135.89) (xy 162.56 74.93)
 		)
 		(stroke
 			(width 0)
@@ -1422,7 +2140,47 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 80.01) (xy 259.08 80.01)
+			(xy 72.39 27.94) (xy 72.39 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9fa95f6e-29af-423c-8514-cf85c4fbf897")
+	)
+	(wire
+		(pts
+			(xy 76.2 30.48) (xy 110.49 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a192851c-3d41-46e9-a708-5e5c671d9ce6")
+	)
+	(wire
+		(pts
+			(xy 242.57 116.84) (xy 242.57 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "abdb0ffd-8b75-4090-b9c6-88f5885fee5c")
+	)
+	(wire
+		(pts
+			(xy 110.49 30.48) (xy 110.49 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "adefd6ef-7116-481d-a280-db776b833d5f")
+	)
+	(wire
+		(pts
+			(xy 228.6 76.2) (xy 238.76 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1432,27 +2190,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 118.11) (xy 274.32 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b9690a1b-7031-4aad-9b49-e13aab8c9ac4")
-	)
-	(wire
-		(pts
-			(xy 248.92 49.53) (xy 274.32 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bac6bf86-acf7-4914-93f1-1682d4c25455")
-	)
-	(wire
-		(pts
-			(xy 165.1 134.62) (xy 165.1 129.54)
+			(xy 144.78 130.81) (xy 144.78 125.73)
 		)
 		(stroke
 			(width 0)
@@ -1462,7 +2200,17 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 129.54) (xy 161.29 129.54)
+			(xy 238.76 76.2) (xy 250.19 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c20fdc9d-558d-46d0-bb53-7ec78c95f333")
+	)
+	(wire
+		(pts
+			(xy 144.78 125.73) (xy 140.97 125.73)
 		)
 		(stroke
 			(width 0)
@@ -1472,7 +2220,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 134.62) (xy 92.71 78.74)
+			(xy 72.39 130.81) (xy 72.39 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1482,7 +2230,17 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 49.53) (xy 248.92 49.53)
+			(xy 228.6 48.26) (xy 242.57 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e58689ca-8ef8-4fee-b24f-cbcc3cf76e80")
+	)
+	(wire
+		(pts
+			(xy 162.56 45.72) (xy 228.6 45.72)
 		)
 		(stroke
 			(width 0)
@@ -1491,7 +2249,7 @@
 		(uuid "f8609c50-53d1-44e9-85c9-cd80a691f3a6")
 	)
 	(image
-		(at 276.86 173.99)
+		(at 256.54 170.18)
 		(scale 0.0220748)
 		(uuid "8a3a6381-6f09-43e4-9be5-9800ebace7d6")
 		(data "iVBORw0KGgoAAAANSUhEUgAABmgAAAZoCAYAAACWeUrYAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAL"
@@ -4310,8 +5068,90 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Screw_Terminal_01x06")
+		(at 261.62 128.27 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1cae22d1-d2d6-4f59-931b-fb5e6a10db1f")
+		(property "Reference" "J5"
+			(at 264.16 128.2699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Motor_Terminal_01x06"
+			(at 264.16 130.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 261.62 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 261.62 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 261.62 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "cdd2a035-f3d9-41cd-8f42-7360f97379f3")
+		)
+		(pin "6"
+			(uuid "31982c1b-f484-499a-be0b-7b66b35b4e18")
+		)
+		(pin "1"
+			(uuid "4a4f0671-b4c2-4581-9fb1-23c973829fbd")
+		)
+		(pin "4"
+			(uuid "8820b6ff-0b3a-4cfe-8241-f5da646c6a4c")
+		)
+		(pin "2"
+			(uuid "9fb9307f-be83-4cc3-8e49-608816e32848")
+		)
+		(pin "3"
+			(uuid "d318e774-c87d-4356-8802-270175c3df2a")
+		)
+		(instances
+			(project "GameHma"
+				(path "/365c5a64-2f06-4047-8707-e000ebaadc48"
+					(reference "J5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "A4988_STEPPER_MOTOR_DRIVER_CARRIER:A4988_STEPPER_MOTOR_DRIVER_CARRIER")
-		(at 66.04 64.77 0)
+		(at 45.72 60.96 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4320,7 +5160,7 @@
 		(fields_autoplaced yes)
 		(uuid "43591c05-b02d-450e-a8b0-c7fa8f69ee65")
 		(property "Reference" "U2"
-			(at 66.04 41.91 0)
+			(at 45.72 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4328,7 +5168,7 @@
 			)
 		)
 		(property "Value" "A4988_STEPPER_MOTOR_DRIVER_CARRIER"
-			(at 66.04 44.45 0)
+			(at 45.72 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4336,7 +5176,7 @@
 			)
 		)
 		(property "Footprint" "A4988_STEPPER_MOTOR_DRIVER_CARRIER:MODULE_A4988_STEPPER_MOTOR_DRIVER_CARRIER"
-			(at 66.04 64.77 0)
+			(at 45.72 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4346,7 +5186,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 64.77 0)
+			(at 45.72 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4355,7 +5195,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 66.04 64.77 0)
+			(at 45.72 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4364,7 +5204,7 @@
 			)
 		)
 		(property "MF" "Pololu"
-			(at 66.04 64.77 0)
+			(at 45.72 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4374,7 +5214,7 @@
 			)
 		)
 		(property "DESCRIPTION" "Stepper motor controler; IC: A4988; 1A; Uin mot: 8÷35V"
-			(at 66.04 64.77 0)
+			(at 45.72 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4384,7 +5224,7 @@
 			)
 		)
 		(property "PACKAGE" "None"
-			(at 66.04 64.77 0)
+			(at 45.72 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4394,7 +5234,7 @@
 			)
 		)
 		(property "PRICE" "None"
-			(at 66.04 64.77 0)
+			(at 45.72 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4404,7 +5244,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 66.04 64.77 0)
+			(at 45.72 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4414,7 +5254,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/A4988%20STEPPER%20MOTOR%20DRIVER%20CARRIER/Pololu/view-part/?ref=eda"
-			(at 66.04 64.77 0)
+			(at 45.72 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4424,7 +5264,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 66.04 64.77 0)
+			(at 45.72 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4434,7 +5274,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/A4988%20STEPPER%20MOTOR%20DRIVER%20CARRIER/Pololu/view-part/?ref=snap"
-			(at 66.04 64.77 0)
+			(at 45.72 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4444,7 +5284,7 @@
 			)
 		)
 		(property "MP" "A4988 STEPPER MOTOR DRIVER CARRIER"
-			(at 66.04 64.77 0)
+			(at 45.72 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4454,7 +5294,7 @@
 			)
 		)
 		(property "Availability" "Not in stock"
-			(at 66.04 64.77 0)
+			(at 45.72 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4464,7 +5304,7 @@
 			)
 		)
 		(property "AVAILABILITY" "Unavailable"
-			(at 66.04 64.77 0)
+			(at 45.72 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4474,7 +5314,7 @@
 			)
 		)
 		(property "Description_1" "Stepper Motor Driver"
-			(at 66.04 64.77 0)
+			(at 45.72 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4542,7 +5382,7 @@
 	)
 	(symbol
 		(lib_id "A4988_STEPPER_MOTOR_DRIVER_CARRIER:A4988_STEPPER_MOTOR_DRIVER_CARRIER")
-		(at 66.04 154.94 0)
+		(at 45.72 151.13 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4550,7 +5390,7 @@
 		(dnp no)
 		(uuid "6ba1b9ee-b7b4-4e1c-b0cf-245734c44ba1")
 		(property "Reference" "U3"
-			(at 65.786 130.81 0)
+			(at 45.466 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4558,7 +5398,7 @@
 			)
 		)
 		(property "Value" "A4988_STEPPER_MOTOR_DRIVER_CARRIER"
-			(at 66.04 134.62 0)
+			(at 45.72 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4566,7 +5406,7 @@
 			)
 		)
 		(property "Footprint" "A4988_STEPPER_MOTOR_DRIVER_CARRIER:MODULE_A4988_STEPPER_MOTOR_DRIVER_CARRIER"
-			(at 66.04 154.94 0)
+			(at 45.72 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4576,7 +5416,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 154.94 0)
+			(at 45.72 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4585,7 +5425,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 66.04 154.94 0)
+			(at 45.72 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4594,7 +5434,7 @@
 			)
 		)
 		(property "MF" "Pololu"
-			(at 66.04 154.94 0)
+			(at 45.72 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4604,7 +5444,7 @@
 			)
 		)
 		(property "DESCRIPTION" "Stepper motor controler; IC: A4988; 1A; Uin mot: 8÷35V"
-			(at 66.04 154.94 0)
+			(at 45.72 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4614,7 +5454,7 @@
 			)
 		)
 		(property "PACKAGE" "None"
-			(at 66.04 154.94 0)
+			(at 45.72 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4624,7 +5464,7 @@
 			)
 		)
 		(property "PRICE" "None"
-			(at 66.04 154.94 0)
+			(at 45.72 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4634,7 +5474,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 66.04 154.94 0)
+			(at 45.72 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4644,7 +5484,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/A4988%20STEPPER%20MOTOR%20DRIVER%20CARRIER/Pololu/view-part/?ref=eda"
-			(at 66.04 154.94 0)
+			(at 45.72 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4654,7 +5494,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 66.04 154.94 0)
+			(at 45.72 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4664,7 +5504,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/A4988%20STEPPER%20MOTOR%20DRIVER%20CARRIER/Pololu/view-part/?ref=snap"
-			(at 66.04 154.94 0)
+			(at 45.72 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4674,7 +5514,7 @@
 			)
 		)
 		(property "MP" "A4988 STEPPER MOTOR DRIVER CARRIER"
-			(at 66.04 154.94 0)
+			(at 45.72 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4684,7 +5524,7 @@
 			)
 		)
 		(property "Availability" "Not in stock"
-			(at 66.04 154.94 0)
+			(at 45.72 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4694,7 +5534,7 @@
 			)
 		)
 		(property "AVAILABILITY" "Unavailable"
-			(at 66.04 154.94 0)
+			(at 45.72 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4704,7 +5544,7 @@
 			)
 		)
 		(property "Description_1" "Stepper Motor Driver"
-			(at 66.04 154.94 0)
+			(at 45.72 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4771,8 +5611,158 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Screw_Terminal_01x06")
+		(at 86.36 148.59 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7aadaa45-defc-4f8d-9e4d-391a7538bf82")
+		(property "Reference" "J3"
+			(at 88.9 148.5899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Motor_Terminal_01x06"
+			(at 88.9 151.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 86.36 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 86.36 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 86.36 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "35c44b9d-0b36-4b1b-9bad-95a15a0eac9d")
+		)
+		(pin "6"
+			(uuid "53d569b3-0e80-4478-9437-b42ff216fba6")
+		)
+		(pin "1"
+			(uuid "1a2687ec-c176-4b7c-89f0-7e83992f09a9")
+		)
+		(pin "4"
+			(uuid "d5055e49-b0b7-433c-bb84-902358bb8e1a")
+		)
+		(pin "2"
+			(uuid "b23fb422-fdad-44bc-8160-f21d8ab607d0")
+		)
+		(pin "3"
+			(uuid "93653887-04e1-4dcb-b106-ad91ba079df5")
+		)
+		(instances
+			(project "GameHma"
+				(path "/365c5a64-2f06-4047-8707-e000ebaadc48"
+					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 29.21 30.48 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7b0a18ab-db8b-41ee-b25a-5b59844b3872")
+		(property "Reference" "J1"
+			(at 29.21 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Screw_Terminal_01x02"
+			(at 29.21 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 29.21 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 29.21 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 29.21 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e7d2bc3a-4d02-42a7-a65b-5b7641e29839")
+		)
+		(pin "1"
+			(uuid "9fc7732c-7314-4012-81cb-fa7295531505")
+		)
+		(instances
+			(project ""
+				(path "/365c5a64-2f06-4047-8707-e000ebaadc48"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "A4988_STEPPER_MOTOR_DRIVER_CARRIER:A4988_STEPPER_MOTOR_DRIVER_CARRIER")
-		(at 231.14 133.35 0)
+		(at 210.82 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4781,7 +5771,7 @@
 		(fields_autoplaced yes)
 		(uuid "7fe838d4-273b-4f95-85ff-df1fd0ca173c")
 		(property "Reference" "U5"
-			(at 231.14 110.49 0)
+			(at 210.82 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4789,7 +5779,7 @@
 			)
 		)
 		(property "Value" "A4988_STEPPER_MOTOR_DRIVER_CARRIER"
-			(at 231.14 113.03 0)
+			(at 210.82 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4797,7 +5787,7 @@
 			)
 		)
 		(property "Footprint" "A4988_STEPPER_MOTOR_DRIVER_CARRIER:MODULE_A4988_STEPPER_MOTOR_DRIVER_CARRIER"
-			(at 231.14 133.35 0)
+			(at 210.82 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4807,7 +5797,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 231.14 133.35 0)
+			(at 210.82 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4816,7 +5806,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 231.14 133.35 0)
+			(at 210.82 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4825,7 +5815,7 @@
 			)
 		)
 		(property "MF" "Pololu"
-			(at 231.14 133.35 0)
+			(at 210.82 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4835,7 +5825,7 @@
 			)
 		)
 		(property "DESCRIPTION" "Stepper motor controler; IC: A4988; 1A; Uin mot: 8÷35V"
-			(at 231.14 133.35 0)
+			(at 210.82 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4845,7 +5835,7 @@
 			)
 		)
 		(property "PACKAGE" "None"
-			(at 231.14 133.35 0)
+			(at 210.82 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4855,7 +5845,7 @@
 			)
 		)
 		(property "PRICE" "None"
-			(at 231.14 133.35 0)
+			(at 210.82 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4865,7 +5855,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 231.14 133.35 0)
+			(at 210.82 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4875,7 +5865,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/A4988%20STEPPER%20MOTOR%20DRIVER%20CARRIER/Pololu/view-part/?ref=eda"
-			(at 231.14 133.35 0)
+			(at 210.82 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4885,7 +5875,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 231.14 133.35 0)
+			(at 210.82 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4895,7 +5885,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/A4988%20STEPPER%20MOTOR%20DRIVER%20CARRIER/Pololu/view-part/?ref=snap"
-			(at 231.14 133.35 0)
+			(at 210.82 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4905,7 +5895,7 @@
 			)
 		)
 		(property "MP" "A4988 STEPPER MOTOR DRIVER CARRIER"
-			(at 231.14 133.35 0)
+			(at 210.82 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4915,7 +5905,7 @@
 			)
 		)
 		(property "Availability" "Not in stock"
-			(at 231.14 133.35 0)
+			(at 210.82 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4925,7 +5915,7 @@
 			)
 		)
 		(property "AVAILABILITY" "Unavailable"
-			(at 231.14 133.35 0)
+			(at 210.82 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4935,7 +5925,7 @@
 			)
 		)
 		(property "Description_1" "Stepper Motor Driver"
-			(at 231.14 133.35 0)
+			(at 210.82 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5003,7 +5993,7 @@
 	)
 	(symbol
 		(lib_id "ESP32-DEVKIT-V1:ESP32-DEVKIT-V1")
-		(at 146.05 104.14 0)
+		(at 125.73 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5012,7 +6002,7 @@
 		(fields_autoplaced yes)
 		(uuid "8a3d3986-df7d-4f75-b88f-9511360342fb")
 		(property "Reference" "U1"
-			(at 146.05 71.12 0)
+			(at 125.73 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5020,7 +6010,7 @@
 			)
 		)
 		(property "Value" "ESP32-DEVKIT-V1"
-			(at 146.05 73.66 0)
+			(at 125.73 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5028,7 +6018,7 @@
 			)
 		)
 		(property "Footprint" "ESP32-DEVKIT-V1:MODULE_ESP32_DEVKIT_V1"
-			(at 146.05 104.14 0)
+			(at 125.73 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5038,7 +6028,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 104.14 0)
+			(at 125.73 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5047,7 +6037,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 146.05 104.14 0)
+			(at 125.73 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5056,7 +6046,7 @@
 			)
 		)
 		(property "MF" "Do it"
-			(at 146.05 104.14 0)
+			(at 125.73 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5066,7 +6056,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "6.8 mm"
-			(at 146.05 104.14 0)
+			(at 125.73 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5076,7 +6066,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 146.05 104.14 0)
+			(at 125.73 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5086,7 +6076,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 146.05 104.14 0)
+			(at 125.73 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5096,7 +6086,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do+it/view-part/?ref=eda"
-			(at 146.05 104.14 0)
+			(at 125.73 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5106,7 +6096,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 146.05 104.14 0)
+			(at 125.73 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5116,7 +6106,7 @@
 			)
 		)
 		(property "PARTREV" "N/A"
-			(at 146.05 104.14 0)
+			(at 125.73 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5126,7 +6116,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do+it/view-part/?ref=snap"
-			(at 146.05 104.14 0)
+			(at 125.73 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5136,7 +6126,7 @@
 			)
 		)
 		(property "MP" "ESP32-DEVKIT-V1"
-			(at 146.05 104.14 0)
+			(at 125.73 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5146,7 +6136,7 @@
 			)
 		)
 		(property "Description_1" "Dual core, Wi-Fi: 2.4 GHz up to 150 Mbits/s,BLE (Bluetooth Low Energy) and legacy Bluetooth, 32 bits, Up to 240 MHz"
-			(at 146.05 104.14 0)
+			(at 125.73 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5156,7 +6146,7 @@
 			)
 		)
 		(property "Availability" "Not in stock"
-			(at 146.05 104.14 0)
+			(at 125.73 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5166,7 +6156,7 @@
 			)
 		)
 		(property "MANUFACTURER" "DOIT"
-			(at 146.05 104.14 0)
+			(at 125.73 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5275,8 +6265,172 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Screw_Terminal_01x06")
+		(at 261.62 62.23 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "93be3d64-375b-4a3c-af6c-96abdb0eec34")
+		(property "Reference" "J4"
+			(at 264.16 62.2299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Motor_Terminal_01x06"
+			(at 264.16 64.7699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 261.62 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 261.62 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 261.62 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "2aaf7b43-904d-4788-8756-c0bfff5cfba4")
+		)
+		(pin "6"
+			(uuid "a1aa97a8-29a4-499a-8ed5-4fe5529fce4c")
+		)
+		(pin "1"
+			(uuid "e59ceed3-9aa8-47ee-abb5-5e0330e02529")
+		)
+		(pin "4"
+			(uuid "25352cc5-b949-4214-90d6-2523693465f9")
+		)
+		(pin "2"
+			(uuid "82fafc7a-dbd4-4544-af64-e104b4e3cff9")
+		)
+		(pin "3"
+			(uuid "138426de-3305-4431-998e-cc45b9412970")
+		)
+		(instances
+			(project "GameHma"
+				(path "/365c5a64-2f06-4047-8707-e000ebaadc48"
+					(reference "J4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x06")
+		(at 86.36 60.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9f57508e-239f-4ccd-9c45-fd0194b41506")
+		(property "Reference" "J2"
+			(at 88.9 60.9599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Motor_Terminal_01x06"
+			(at 88.9 63.4999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 86.36 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 86.36 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 86.36 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "5e0ff418-d528-4a0d-9c38-b9e3f2343737")
+		)
+		(pin "6"
+			(uuid "47a5474a-3304-4116-a78f-9ad2b1ccf012")
+		)
+		(pin "1"
+			(uuid "c2174118-5cba-4b65-8d80-8a2cbf9c32a0")
+		)
+		(pin "4"
+			(uuid "869022e4-d111-4bc3-a506-42e0052391e4")
+		)
+		(pin "2"
+			(uuid "52a6bc8f-ff34-46b7-81f7-52788453b3d4")
+		)
+		(pin "3"
+			(uuid "2bdaca24-0dae-4f06-8439-cf831108b349")
+		)
+		(instances
+			(project ""
+				(path "/365c5a64-2f06-4047-8707-e000ebaadc48"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "A4988_STEPPER_MOTOR_DRIVER_CARRIER:A4988_STEPPER_MOTOR_DRIVER_CARRIER")
-		(at 231.14 64.77 0)
+		(at 210.82 60.96 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5285,7 +6439,7 @@
 		(fields_autoplaced yes)
 		(uuid "d72fed6a-8c68-423b-b454-a915855c12ca")
 		(property "Reference" "U4"
-			(at 231.14 41.91 0)
+			(at 210.82 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5293,7 +6447,7 @@
 			)
 		)
 		(property "Value" "A4988_STEPPER_MOTOR_DRIVER_CARRIER"
-			(at 231.14 44.45 0)
+			(at 210.82 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5301,7 +6455,7 @@
 			)
 		)
 		(property "Footprint" "A4988_STEPPER_MOTOR_DRIVER_CARRIER:MODULE_A4988_STEPPER_MOTOR_DRIVER_CARRIER"
-			(at 231.14 64.77 0)
+			(at 210.82 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5311,7 +6465,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 231.14 64.77 0)
+			(at 210.82 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5320,7 +6474,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 231.14 64.77 0)
+			(at 210.82 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5329,7 +6483,7 @@
 			)
 		)
 		(property "MF" "Pololu"
-			(at 231.14 64.77 0)
+			(at 210.82 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5339,7 +6493,7 @@
 			)
 		)
 		(property "DESCRIPTION" "Stepper motor controler; IC: A4988; 1A; Uin mot: 8÷35V"
-			(at 231.14 64.77 0)
+			(at 210.82 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5349,7 +6503,7 @@
 			)
 		)
 		(property "PACKAGE" "None"
-			(at 231.14 64.77 0)
+			(at 210.82 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5359,7 +6513,7 @@
 			)
 		)
 		(property "PRICE" "None"
-			(at 231.14 64.77 0)
+			(at 210.82 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5369,7 +6523,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 231.14 64.77 0)
+			(at 210.82 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5379,7 +6533,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/A4988%20STEPPER%20MOTOR%20DRIVER%20CARRIER/Pololu/view-part/?ref=eda"
-			(at 231.14 64.77 0)
+			(at 210.82 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5389,7 +6543,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 231.14 64.77 0)
+			(at 210.82 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5399,7 +6553,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/A4988%20STEPPER%20MOTOR%20DRIVER%20CARRIER/Pololu/view-part/?ref=snap"
-			(at 231.14 64.77 0)
+			(at 210.82 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5409,7 +6563,7 @@
 			)
 		)
 		(property "MP" "A4988 STEPPER MOTOR DRIVER CARRIER"
-			(at 231.14 64.77 0)
+			(at 210.82 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5419,7 +6573,7 @@
 			)
 		)
 		(property "Availability" "Not in stock"
-			(at 231.14 64.77 0)
+			(at 210.82 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5429,7 +6583,7 @@
 			)
 		)
 		(property "AVAILABILITY" "Unavailable"
-			(at 231.14 64.77 0)
+			(at 210.82 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5439,7 +6593,7 @@
 			)
 		)
 		(property "Description_1" "Stepper Motor Driver"
-			(at 231.14 64.77 0)
+			(at 210.82 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
