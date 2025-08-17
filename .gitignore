@@ -1,1 +1,7 @@
 *.zip
+*.lck
+fp-info-cache
+plots/
+production/
+jlcpcb
+production

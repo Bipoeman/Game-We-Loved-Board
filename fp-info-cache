@@ -1,4 +1,4 @@
-25735348076925904
+25737103536315888
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57420,6 +57420,13 @@ Power 5V 3A
 0
 12
 4
+Custom Footprint
+OpenFruit Logo
+
+
+0
+0
+0
 Custom Footprint
 Raspberry Pi Zero
 Raspberry Pi board model B+, full outline with position of big connectors &amp; drill holes
